@@ -1,0 +1,6 @@
+﻿	
+
+	— — — ——  Change Log for samito Wordpress Theme  — — — —
+
+		v1.0	- Initial Release
+, tweaked a few options from Klean by Divjot Singh
